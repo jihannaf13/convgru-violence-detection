@@ -1,0 +1,5 @@
+.neptune
+/config/base_config.py
+/models
+/outputs
+video_output
