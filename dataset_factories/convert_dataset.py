@@ -6,7 +6,7 @@ import torch
 from rich.progress import Progress
 
 # Import Class
-from dataset_factories.dataset_maker import TrainDataset, ValidationDataset
+from dataset_factories.dataset_class import TrainDataset, ValidationDataset
 from utils.utils import save_concat_dataset_to_npz
 
 # Define transformations
