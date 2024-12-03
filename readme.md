@@ -1,4 +1,4 @@
-1.Create Dataset
+1. Create Dataset
 To minimize the cost of device computations, I decide to divide the process into some steps
     a. create a base_config.py from template (template/base_config.py) and move to config folder 
     b. Change the dir in DEFAULT_DATASET_CONFIG
